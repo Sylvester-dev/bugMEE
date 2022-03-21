@@ -68,4 +68,4 @@ To try out this project:
 Project is: finished with option to expand functionality and DRY out code.
 
 ## Inspiration
-The inspiration for BugMEE came as I worked through building large scale projects I wanted to develop a bug tracking tool that allowed developers to easily track source code bugs in a easy-to-use format that allows collaborations with other team members. 
+BugMEE was born out of my experiences building large scale projects in hackathons, and I wanted to develop a tool that would allow developers to track source code bugs in an easy-to-use format that would facilitate collaborations. 
