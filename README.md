@@ -64,8 +64,5 @@ To try out this project:
 * Add team members to your group to track tickets that you are associated with. 
 * Interact with team members utilizing the comments feature. 
 
-## Status
-Project is: finished with option to expand functionality and DRY out code.
-
 ## Inspiration
 BugMEE was born out of my experiences building large scale projects in hackathons, and I wanted to develop a tool that would allow developers to track source code bugs in an easy-to-use format that would facilitate collaborations. 
